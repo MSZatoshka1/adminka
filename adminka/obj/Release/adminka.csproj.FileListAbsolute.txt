@@ -1,0 +1,51 @@
+C:\Users\макс\Desktop\adminka\adminka\bin\Release\adminka.exe.config
+C:\Users\макс\Desktop\adminka\adminka\bin\Release\Database1.mdf
+C:\Users\макс\Desktop\adminka\adminka\bin\Release\Database1_log.ldf
+C:\Users\макс\Desktop\adminka\adminka\bin\Release\adminka.exe
+C:\Users\макс\Desktop\adminka\adminka\bin\Release\adminka.pdb
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.get_man_date.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.get_man.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.get_mans.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.get_man_invent.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.get_statistic_data.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.get_times.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.set_man.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.Properties.Resources.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.csproj.GenerateResource.Cache
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.exe
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.pdb
+C:\Users\макс\Desktop\adminka\adminka\obj\Release\adminka.csprojResolveAssemblyReference.cache
+C:\Users\макс\Desktop\adminka — копия\adminka\bin\Release\adminka.exe.config
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.exe
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.pdb
+C:\Users\макс\Desktop\adminka — копия\adminka\bin\Release\Database1.mdf
+C:\Users\макс\Desktop\adminka — копия\adminka\bin\Release\Database1_log.ldf
+C:\Users\макс\Desktop\adminka — копия\adminka\bin\Release\adminka.exe
+C:\Users\макс\Desktop\adminka — копия\adminka\bin\Release\adminka.pdb
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.csprojResolveAssemblyReference.cache
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.get_man_date.resources
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.get_man.resources
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.get_mans.resources
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.get_man_invent.resources
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.get_statistic_data.resources
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.get_times.resources
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.set_man.resources
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.Properties.Resources.resources
+C:\Users\макс\Desktop\adminka — копия\adminka\obj\Release\adminka.csproj.GenerateResource.Cache
+C:\Users\макс\Desktop\adminka(готовая)\adminka\bin\Release\adminka.exe.config
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.exe
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.pdb
+C:\Users\макс\Desktop\adminka(готовая)\adminka\bin\Release\Database1.mdf
+C:\Users\макс\Desktop\adminka(готовая)\adminka\bin\Release\Database1_log.ldf
+C:\Users\макс\Desktop\adminka(готовая)\adminka\bin\Release\adminka.exe
+C:\Users\макс\Desktop\adminka(готовая)\adminka\bin\Release\adminka.pdb
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.csprojResolveAssemblyReference.cache
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.get_man_date.resources
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.get_man.resources
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.get_mans.resources
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.get_man_invent.resources
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.get_statistic_data.resources
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.get_times.resources
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.set_man.resources
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.Properties.Resources.resources
+C:\Users\макс\Desktop\adminka(готовая)\adminka\obj\Release\adminka.csproj.GenerateResource.Cache

@@ -1,0 +1,51 @@
+c:\users\макс\documents\visual studio 2015\Projects\adminka\adminka\bin\Debug\adminka.exe.config
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\bin\Debug\adminka.exe
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\bin\Debug\adminka.pdb
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.csprojResolveAssemblyReference.cache
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.Properties.Resources.resources
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.csproj.GenerateResource.Cache
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.exe
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.pdb
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.set_man.resources
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\bin\Debug\Database1.mdf
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\bin\Debug\Database1_log.ldf
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.get_man_date.resources
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.get_man.resources
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.get_mans.resources
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.get_man_invent.resources
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.get_statistic_data.resources
+C:\Users\макс\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.get_times.resources
+D:\adminka\adminka\bin\Debug\adminka.exe.config
+D:\adminka\adminka\obj\Debug\adminka.exe
+D:\adminka\adminka\obj\Debug\adminka.pdb
+D:\adminka\adminka\bin\Debug\Database1.mdf
+D:\adminka\adminka\bin\Debug\Database1_log.ldf
+D:\adminka\adminka\bin\Debug\adminka.exe
+D:\adminka\adminka\bin\Debug\adminka.pdb
+D:\adminka\adminka\obj\Debug\adminka.csprojResolveAssemblyReference.cache
+D:\adminka\adminka\obj\Debug\adminka.get_man_date.resources
+D:\adminka\adminka\obj\Debug\adminka.get_man.resources
+D:\adminka\adminka\obj\Debug\adminka.get_mans.resources
+D:\adminka\adminka\obj\Debug\adminka.get_man_invent.resources
+D:\adminka\adminka\obj\Debug\adminka.get_statistic_data.resources
+D:\adminka\adminka\obj\Debug\adminka.get_times.resources
+D:\adminka\adminka\obj\Debug\adminka.set_man.resources
+D:\adminka\adminka\obj\Debug\adminka.Properties.Resources.resources
+D:\adminka\adminka\obj\Debug\adminka.csproj.GenerateResource.Cache
+C:\Users\макс\Desktop\adminka\adminka\bin\Debug\adminka.exe.config
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.exe
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.pdb
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.csprojResolveAssemblyReference.cache
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.get_man_date.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.get_man.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.get_mans.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.get_man_invent.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.get_statistic_data.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.get_times.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.set_man.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.Properties.Resources.resources
+C:\Users\макс\Desktop\adminka\adminka\obj\Debug\adminka.csproj.GenerateResource.Cache
+C:\Users\макс\Desktop\adminka\adminka\bin\Debug\Database1.mdf
+C:\Users\макс\Desktop\adminka\adminka\bin\Debug\Database1_log.ldf
+C:\Users\макс\Desktop\adminka\adminka\bin\Debug\adminka.exe
+C:\Users\макс\Desktop\adminka\adminka\bin\Debug\adminka.pdb
